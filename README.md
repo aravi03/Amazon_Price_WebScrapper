@@ -12,7 +12,7 @@ Scrapping of prices works only if the price of the particular product appears on
 
 Output
 ------
-The screenshot of the output csv for the input "Levis Jeans" is given in the **output** file
+The screenshot of the output csv for the input "Levis Jeans" is given in the **output*.png* file
 
 
  
